@@ -1,0 +1,10 @@
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\DAL.pdb

@@ -1,0 +1,10 @@
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\OkulApp.DAL.deps.json
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\OkulApp.DAL.dll
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\bin\Debug\netstandard2.0\OkulApp.DAL.pdb
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.csproj.AssemblyReference.cache
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.AssemblyInfoInputs.cache
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.AssemblyInfo.cs
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.dll
+C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\ClassLibrary1\obj\Debug\netstandard2.0\OkulApp.DAL.pdb

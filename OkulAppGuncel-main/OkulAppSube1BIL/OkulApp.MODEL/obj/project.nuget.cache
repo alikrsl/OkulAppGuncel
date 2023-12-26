@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rA+yO7kSR9N+Wv/5eo14WXOthyNmqo9MqKByIfkQX8BOtrPM8nz4YqT8tpV1CbKesBLzgi/1BxOaAw16JXOAGQ==",
+  "dgSpecHash": "8xuzAGbqQ5EkDDuwP4mtPJffly58c60yI3B9oem/IW7llN/PJXSScPQvgu2ojJ+NiLjZA5CSjSDUOFPxT/P2jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kande\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+  "projectFilePath": "C:\\Users\\miche.DESKTOP-64GS1N9\\OneDrive\\Belgeler\\GitHub\\OkulAppGuncel\\OkulAppGuncel-main\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kande\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\kande\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\miche.DESKTOP-64GS1N9\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miche.DESKTOP-64GS1N9\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

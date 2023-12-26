@@ -46,5 +46,10 @@ namespace OgretmenKayit
                 MessageBox.Show("Bilinmeyen Hata");
             }
         }
+
+        private void lblOgrtmnTc_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.grpOgretmen = new System.Windows.Forms.GroupBox();
-            this.txtOgrtmnAd = new System.Windows.Forms.TextBox();
-            this.txtOgrtmnSoyad = new System.Windows.Forms.TextBox();
-            this.txtOgretmenTc = new System.Windows.Forms.TextBox();
-            this.lblOgretmenAd = new System.Windows.Forms.Label();
-            this.lblOgrtmnSoyad = new System.Windows.Forms.Label();
             this.lblOgrtmnTc = new System.Windows.Forms.Label();
+            this.lblOgrtmnSoyad = new System.Windows.Forms.Label();
+            this.lblOgretmenAd = new System.Windows.Forms.Label();
+            this.txtOgretmenTc = new System.Windows.Forms.TextBox();
+            this.txtOgrtmnSoyad = new System.Windows.Forms.TextBox();
+            this.txtOgrtmnAd = new System.Windows.Forms.TextBox();
             this.btnOgrtmnKaydet = new System.Windows.Forms.Button();
             this.grpOgretmen.SuspendLayout();
             this.SuspendLayout();
@@ -54,35 +54,15 @@
             this.grpOgretmen.TabStop = false;
             this.grpOgretmen.Text = "Öğretmen Bilgileri";
             // 
-            // txtOgrtmnAd
+            // lblOgrtmnTc
             // 
-            this.txtOgrtmnAd.Location = new System.Drawing.Point(117, 69);
-            this.txtOgrtmnAd.Name = "txtOgrtmnAd";
-            this.txtOgrtmnAd.Size = new System.Drawing.Size(100, 20);
-            this.txtOgrtmnAd.TabIndex = 0;
-            // 
-            // txtOgrtmnSoyad
-            // 
-            this.txtOgrtmnSoyad.Location = new System.Drawing.Point(117, 99);
-            this.txtOgrtmnSoyad.Name = "txtOgrtmnSoyad";
-            this.txtOgrtmnSoyad.Size = new System.Drawing.Size(100, 20);
-            this.txtOgrtmnSoyad.TabIndex = 1;
-            // 
-            // txtOgretmenTc
-            // 
-            this.txtOgretmenTc.Location = new System.Drawing.Point(117, 132);
-            this.txtOgretmenTc.Name = "txtOgretmenTc";
-            this.txtOgretmenTc.Size = new System.Drawing.Size(100, 20);
-            this.txtOgretmenTc.TabIndex = 2;
-            // 
-            // lblOgretmenAd
-            // 
-            this.lblOgretmenAd.AutoSize = true;
-            this.lblOgretmenAd.Location = new System.Drawing.Point(91, 76);
-            this.lblOgretmenAd.Name = "lblOgretmenAd";
-            this.lblOgretmenAd.Size = new System.Drawing.Size(20, 13);
-            this.lblOgretmenAd.TabIndex = 3;
-            this.lblOgretmenAd.Text = "Ad";
+            this.lblOgrtmnTc.AutoSize = true;
+            this.lblOgrtmnTc.Location = new System.Drawing.Point(30, 139);
+            this.lblOgrtmnTc.Name = "lblOgrtmnTc";
+            this.lblOgrtmnTc.Size = new System.Drawing.Size(81, 13);
+            this.lblOgrtmnTc.TabIndex = 5;
+            this.lblOgrtmnTc.Text = "Kimlik Numarası";
+            this.lblOgrtmnTc.Click += new System.EventHandler(this.lblOgrtmnTc_Click);
             // 
             // lblOgrtmnSoyad
             // 
@@ -93,14 +73,35 @@
             this.lblOgrtmnSoyad.TabIndex = 4;
             this.lblOgrtmnSoyad.Text = "Soyad";
             // 
-            // lblOgrtmnTc
+            // lblOgretmenAd
             // 
-            this.lblOgrtmnTc.AutoSize = true;
-            this.lblOgrtmnTc.Location = new System.Drawing.Point(7, 139);
-            this.lblOgrtmnTc.Name = "lblOgrtmnTc";
-            this.lblOgrtmnTc.Size = new System.Drawing.Size(104, 13);
-            this.lblOgrtmnTc.TabIndex = 5;
-            this.lblOgrtmnTc.Text = "T.C. Kimlik Numarası";
+            this.lblOgretmenAd.AutoSize = true;
+            this.lblOgretmenAd.Location = new System.Drawing.Point(91, 76);
+            this.lblOgretmenAd.Name = "lblOgretmenAd";
+            this.lblOgretmenAd.Size = new System.Drawing.Size(20, 13);
+            this.lblOgretmenAd.TabIndex = 3;
+            this.lblOgretmenAd.Text = "Ad";
+            // 
+            // txtOgretmenTc
+            // 
+            this.txtOgretmenTc.Location = new System.Drawing.Point(117, 132);
+            this.txtOgretmenTc.Name = "txtOgretmenTc";
+            this.txtOgretmenTc.Size = new System.Drawing.Size(100, 20);
+            this.txtOgretmenTc.TabIndex = 2;
+            // 
+            // txtOgrtmnSoyad
+            // 
+            this.txtOgrtmnSoyad.Location = new System.Drawing.Point(117, 99);
+            this.txtOgrtmnSoyad.Name = "txtOgrtmnSoyad";
+            this.txtOgrtmnSoyad.Size = new System.Drawing.Size(100, 20);
+            this.txtOgrtmnSoyad.TabIndex = 1;
+            // 
+            // txtOgrtmnAd
+            // 
+            this.txtOgrtmnAd.Location = new System.Drawing.Point(117, 69);
+            this.txtOgrtmnAd.Name = "txtOgrtmnAd";
+            this.txtOgrtmnAd.Size = new System.Drawing.Size(100, 20);
+            this.txtOgrtmnAd.TabIndex = 0;
             // 
             // btnOgrtmnKaydet
             // 

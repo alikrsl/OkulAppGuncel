@@ -17,10 +17,10 @@ namespace OkulApp.BLL
             {
                 new SqlParameter("@Ad", ogrtmn.OgretmenAd),
                 new SqlParameter("@Soyad", ogrtmn.OgretmenSoyad),
-                new SqlParameter("@KimlikNo", ogrtmn.OgretmenKimlikNo)
+                new SqlParameter("@TcNo", ogrtmn.OgretmenKimlikNo)
             };
             Helper hlp = new Helper();
-            return hlp.ExecuteNonQuery("Insert into tblOgretmenler values (@Ad, @Soyad, @KimlikNo)", p) > 0;
+            return hlp.ExecuteNonQuery("Insert into tblOgretmnler values (@Ad, @Soyad, @TcNo)", p) > 0;
         }
     }
 }

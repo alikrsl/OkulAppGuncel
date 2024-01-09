@@ -1,30 +1,31 @@
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
-C:\Users\kande\Source\Repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb
-C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.dll
-C:\Users\kande\source\repos\HelloWindowsBILSube1\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.pdb
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.DAL.dll
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.DAL.pdb
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
-C:\Users\kande\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Masaüstü\Yeni klasör\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.sourcelink.json
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\miche.DESKTOP-64GS1N9\OneDrive\Belgeler\GitHub\OkulAppGuncel\OkulAppGuncel-main\OkulAppSube1BIL\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb

@@ -1,11 +1,10 @@
-﻿using OgretmenKayit;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OkulApp
+namespace OkulAppSube1BIL
 {
     internal static class Program
     {
@@ -17,7 +16,7 @@ namespace OkulApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmOgrtmnKayit());
+            Application.Run(new frmOgrKayit());
         }
     }
 }
